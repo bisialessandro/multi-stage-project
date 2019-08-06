@@ -1,0 +1,30 @@
+{
+  "name": "front_end_block",
+  "version": "0.1.0",
+  "private": true,
+
+  "dependencies": {
+    "react": "^16.7.0",
+    "react-bootstrap": "^0.32.1",
+    "react-dom": "^16.7.0",
+    "react-loader-spinner": "^2.3.0",
+    "react-promise": "^2.1.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.4",
+    "react-select": "^2.1.2",
+    "react-simple-flex-grid": "^1.2.3",
+    "react-spinners": "^0.5.1",
+    "react-tooltip": "^3.9.0",
+    "simple-flexbox": "^1.2.0",
+    "yarn": "^1.13.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "babel-plugin-emotion": "^10.0.6"
+  }
+}
