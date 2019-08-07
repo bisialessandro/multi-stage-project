@@ -16,7 +16,7 @@
     "react-spinners": "^0.5.1",
     "react-tooltip": "^3.9.0",
     "simple-flexbox": "^1.2.0",
-    "yarn": "^1.13.0"
+    "yarn": "^1.17.3"
   },
   "scripts": {
     "start": "react-scripts start",
